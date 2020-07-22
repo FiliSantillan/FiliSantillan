@@ -1,3 +1,3 @@
 # Fili Santillán
 
-[prefers-color-scheme](https://filisantillan.com/bits/prefers-color-scheme/)
+[Media Query Ranges](https://filisantillan.com/bits/media-query-ranges/)
