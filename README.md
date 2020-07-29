@@ -2,4 +2,4 @@
 
 ![Fili Santillán Github](https://github.com/FiliSantillan/FiliSantillan/blob/master/assets/cover-github.png)
 
-[Media Query Ranges](https://filisantillan.com/bits/media-query-ranges/)
+[image-set](https://filisantillan.com/bits/image-set/)
