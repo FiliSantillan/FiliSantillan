@@ -2,4 +2,4 @@
 
 ![Fili Santillán Github](https://github.com/FiliSantillan/FiliSantillan/blob/master/assets/cover-github.png)
 
-[child selector](https://filisantillan.com/bits/child-selector/)
+[Visual Studio Code: Atajos de teclado](https://filisantillan.com/blog/vscode-atajos/)
