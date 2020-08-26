@@ -2,4 +2,4 @@
 
 ![Fili Santillán Github](https://github.com/FiliSantillan/FiliSantillan/blob/master/assets/cover-github.png)
 
-[Visual Studio Code: Atajos de teclado](https://filisantillan.com/blog/vscode-atajos/)
+[Selector de hermanos adyacentes](https://filisantillan.com/bits/selector-de-hermanos-adyacentes/)
