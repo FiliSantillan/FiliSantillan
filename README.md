@@ -2,4 +2,4 @@
 
 ![Fili Santillán Github](https://github.com/FiliSantillan/FiliSantillan/blob/master/assets/cover-github.png)
 
-[Selector de hermanos adyacentes](https://filisantillan.com/bits/selector-de-hermanos-adyacentes/)
+[¿Qué se publicó en agosto 2020? — 💌 Newsletter 03](https://filisantillan.com/blog/newsletter-03/)
