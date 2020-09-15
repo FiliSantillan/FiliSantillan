@@ -2,4 +2,4 @@
 
 ![Fili Santillán Github](https://github.com/FiliSantillan/FiliSantillan/blob/master/assets/cover-github.png)
 
-[map](https://filisantillan.com/bits/map/)
+[Spread vs. rest operator](https://filisantillan.com/videos/spread-vs-rest-operator/)
