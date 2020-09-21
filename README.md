@@ -2,4 +2,4 @@
 
 ![Fili Santillán Github](https://github.com/FiliSantillan/FiliSantillan/blob/master/assets/cover-github.png)
 
-[filter](https://filisantillan.com/bits/filter/)
+[Visual Studio Code: Extensiones, configuración y personalización](https://filisantillan.com/blog/vscode-extensiones-configuracion/)
