@@ -2,4 +2,4 @@
 
 ![Fili Santillán Github](https://github.com/FiliSantillan/FiliSantillan/blob/master/assets/cover-github.png)
 
-[reduce](https://filisantillan.com/bits/reduce/)
+[¿Qué se publicó en septiembre 2020? — 💌 Newsletter 04](https://filisantillan.com/blog/newsletter-04/)
