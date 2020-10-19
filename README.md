@@ -1,6 +1,6 @@
 # Fili Santillán
 
-![Fili Santillán Github](https://github.com/FiliSantillan/FiliSantillan/blob/master/assets/cover-github.png)
+![Fili Santillán Github](./assets/cover-github.png)
 
 <p align="center">
     <a href="https://www.youtube.com/user/fili06604" target="blank">
