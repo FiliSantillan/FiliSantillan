@@ -17,6 +17,6 @@
 
 <p align="center">I create content in Spanish about web development.</p>
 
-**Mis posts más recientes**:
+**My recent posts**:
 
 %{{latest_Article}}%
