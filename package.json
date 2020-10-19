@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/FiliSantillan/FiliSantillan#readme",
     "dependencies": {
+        "node-fetch": "^2.6.1",
         "rss-parser": "^3.9.0"
     }
 }

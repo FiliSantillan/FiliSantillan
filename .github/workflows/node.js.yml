@@ -1,25 +1,30 @@
 name: Update README.md
 
 on:
-  schedule:
-    - cron: "0 */1 * * *"
+    push:
+        branches:
+            - master
+    workflow_dispatch:
+
+    schedule:
+        - cron: "0 */1 * * *"
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+    build:
+        runs-on: ubuntu-latest
 
-    steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '14'
-        
-    - run: npm install
-    - run: npm run update-readme
-    - run: |
-        git config user.name filiSantillan
-        git config user.email fili06604@gmail.com
-        git add README.md
-        git commit -m "[bot] Update README with latest info"
-        git push
-    
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v1
+              with:
+                  node-version: "14"
+            - run: npm install
+            - run: npm run update-readme
+              env:
+                  GHOST_API_KEY: ${{ secrets.GHOST_API_KEY }}
+            - run: |
+                  git config user.name FiliSantillan
+                  git config user.email fili06604@gmail.com
+                  git add README.md
+                  git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+                  git push origin master
