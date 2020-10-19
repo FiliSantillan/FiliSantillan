@@ -6,10 +6,6 @@ const generateStatics = require("./src/generateStatics");
 
 const GHOST_API_KEY = process.env.GHOST_API_KEY;
 
-console.log(process.env);
-
-console.log(`Test: ${GHOST_API_KEY}`);
-
 (async () => {
     const markdownTemplate = fs.readFile("./README.md.tpl", {
         encoding: "utf-8",
