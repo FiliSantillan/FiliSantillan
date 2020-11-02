@@ -34,7 +34,4 @@
         </li>
         <li>
             <a href="https://filisantillan.com/blog/mejorando-la-carga-de-un-sitio-web-imagenes-vs-velocidad/" target="_blank">Mejorando la carga de un sitio web: Imágenes vs. velocidad</a>
-        </li>
-        <li>
-            <a href="https://filisantillan.com/blog/this-en-diferentes-situaciones-y-su-comportamiento/" target="_blank">This en diferentes situaciones y su comportamiento</a>
         </li></ul>
