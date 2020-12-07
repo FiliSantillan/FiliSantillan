@@ -31,7 +31,4 @@
         </li>
         <li>
             <a href="https://filisantillan.com/blog/picture-in-picture/" target="_blank">Picture in Picture con JavaScript</a>
-        </li>
-        <li>
-            <a href="https://filisantillan.com/blog/mejorando-la-carga-de-un-sitio-web-imagenes-vs-velocidad/" target="_blank">Mejorando la carga de un sitio web: Imágenes vs. velocidad</a>
         </li></ul>
