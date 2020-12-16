@@ -21,6 +21,9 @@
 
 <ul>
         <li>
+            <a href="https://filisantillan.com/blog/introduccion-a-los-react-hooks/" target="_blank">Introducción a los React Hooks</a>
+        </li>
+        <li>
             <a href="https://filisantillan.com/blog/vscode-extensiones-configuracion/" target="_blank">Visual Studio Code: Extensiones, configuración y personalización</a>
         </li>
         <li>
@@ -28,7 +31,4 @@
         </li>
         <li>
             <a href="https://filisantillan.com/blog/js-engine/" target="_blank">Rompiendo JavaScript: V8 y el JavaScript Engine</a>
-        </li>
-        <li>
-            <a href="https://filisantillan.com/blog/picture-in-picture/" target="_blank">Picture in Picture con JavaScript</a>
         </li></ul>
